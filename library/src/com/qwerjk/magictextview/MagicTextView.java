@@ -1,4 +1,4 @@
-package com.qwerjk.better_text;
+package com.qwerjk.magictextview;
 
 import java.util.ArrayList;
 import java.util.WeakHashMap;
